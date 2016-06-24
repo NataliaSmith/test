@@ -23,7 +23,6 @@ $autoShow = array(
 				'YearCar'=>'2002',
 				'YearCar'=>'2015'
 				)
-
 			)
 		)
 	);
