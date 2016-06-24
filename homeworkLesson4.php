@@ -9,6 +9,8 @@ $autoShow = array(
 				'YearCar'=>'2015'
 				)
 			)
+		)
+	array(
 		'CarBrands'=>"Toyota"
 		array(
 			'TheModelOfCar'=>'Corolla'
@@ -21,6 +23,7 @@ $autoShow = array(
 				'YearCar'=>'2002',
 				'YearCar'=>'2015'
 				)
+
 			)
 		)
 	);
