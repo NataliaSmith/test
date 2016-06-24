@@ -1,0 +1,26 @@
+<?php
+$autoShow = array(
+	array(
+		'CarBrands'=>"BMW"
+		array(
+			'TheModelOfCar'=>'m5'
+			array(
+				'YearCar'=>'2002',
+				'YearCar'=>'2015'
+				)
+			)
+		'CarBrands'=>"Toyota"
+		array(
+			'TheModelOfCar'=>'Corolla'
+			array(
+				'YearCar'=>'2002',
+				'YearCar'=>'2015'
+				)
+			'TheModelOfCar'=>'Camry'
+			array(
+				'YearCar'=>'2002',
+				'YearCar'=>'2015'
+				)
+			)
+		)
+	);
