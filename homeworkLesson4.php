@@ -5,8 +5,8 @@ $autoShow = array(
 		array(
 			'TheModelOfCar'=>'m5'
 			array(
-				'YearCar'=>'2002',
-				'YearCar'=>'2015'
+				'YearCar1'=>'2002',
+				'YearCar2'=>'2015'
 				)
 			)
 		)
@@ -15,13 +15,13 @@ $autoShow = array(
 		array(
 			'TheModelOfCar'=>'Corolla'
 			array(
-				'YearCar'=>'2002',
-				'YearCar'=>'2015'
+				'YearCar1'=>'2002',
+				'YearCar2'=>'2015'
 				)
 			'TheModelOfCar'=>'Camry'
 			array(
-				'YearCar'=>'2002',
-				'YearCar'=>'2015'
+				'YearCar1'=>'2002',
+				'YearCar2'=>'2015'
 				)
 			)
 		)
