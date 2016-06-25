@@ -13,7 +13,9 @@ $autoShow = array(
 			'TheModelOfCar'=>'Corolla',
 			'YearCar'=> array('2002','2015')
 				)
+		array(
 			'TheModelOfCar'=>'Camry',
 			'YearCar'=> array('2002','2015')
 				)
-			);
+			)
+	);
