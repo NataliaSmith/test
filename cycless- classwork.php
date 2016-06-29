@@ -3,9 +3,30 @@
 //      2. вывести все бренды через запятую на экран
 //  -->
 
-$array = array('bmw', 'Toyota', 'Mazda', 'Nisan');
-$arrayCount = count($array);
-for ($i = 0; $i < $arrayCount; $i++)
-    echo $array['bmw']. ',' ['Toyota'] . ',' ['Mazda'];
-    echo "<br />";
+// $auto = array('bmw', 'Toyota', 'Mazda', 'Nisan');
+// $arrayCount = count($array);
+// for ($i = $arrayCount - 1; $i >=0; $i--){
+//     echo $auto[$i] . ',';
+// }
+
+
+<?php
+$carCenter = [
+    'bmw' => array(
+        'm5' => array(
+            1999,
+            2001
+        ),
+        'm6' => array(
+            2001,
+            2002
+        )
+    ),
+    'toyota' => array(
+        'camry' => array(1999)
+    )
+];
+foreach ($carCenter as $key => $brand) {
+	echo " $key";
+;
 }
